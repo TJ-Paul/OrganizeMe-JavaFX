@@ -20,6 +20,20 @@ A powerful JavaFX-based task management system designed to supercharge your prod
 
 OrganizeMe isn't just another task manager—it's a complete productivity ecosystem built from the ground up with modern development practices. Whether you're a solo developer tracking personal projects or a team collaborating on the next big thing, OrganizeMe delivers top-notch features that are fully functional and ready to boost your productivity.
 
+---
+
+## 📸 Application Preview
+
+<p align="center">
+  <img src="src/resources/viewpts/img1.png" alt="Login Page" width="400" style="margin-right: 20px;"/>
+  <img src="src/resources/viewpts/img2.png" alt="Menu" width="400"/>
+</p>
+<p align="center">
+  <em>Login Page</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Menu</em>
+</p>
+
+---
+
 ## ✨ Features
 
 ### 📝 **Smart Task Management**
@@ -87,7 +101,7 @@ Simply double-click **`Run.bat`** and start organizing!
 #### Connecting as a Team Member:
 1. On the host device, open Terminal/Command Prompt
 2. Type `ipconfig` and press Enter
-3. Look for and copy the **IPv4 Address** (e.g., 192.168.1.104)
+3. Look for and copy the **IPv4 Address** (e.g., 192.168.1.100)
 4. Share this IP address with your team members
 5. Team members should run **`Run.bat`** and enter the provided IP address
 6. **Enjoy seamless team collaboration!** 🚀
@@ -135,6 +149,17 @@ OrganizeMe showcases advanced software engineering concepts:
 
 This project is currently **under active development** while maintaining full functionality of all its top-notch features.
 
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Whether it's bug fixes, new features, or documentation improvements, feel free to:
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ---
 
@@ -163,6 +188,7 @@ Got questions? Run into issues? We're here to help!
 
 ### ⭐ If you find OrganizeMe useful, give it a star!
 
+**Made with ❤️ using JavaFX at BUET**
 
 *Stay organized. Stay productive. Stay ahead.*
 
