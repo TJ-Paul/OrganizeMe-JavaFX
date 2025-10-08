@@ -4,7 +4,8 @@ This document contains the batch files needed to run the OrganizeMe application 
 
 ---
 
-## Bat file code for running "OrganizeMe app"
+### Bat file code for running 
+## "OrganizeMe app"
 ```batch
 @echo off
 REM Change directory to the parent folder of the script
@@ -19,7 +20,8 @@ java --enable-native-access=javafx.graphics --module-path "%FX_SDK_PATH%" --add-
 
 ---
 
-## Bat file code for running "OrganizeMe server"
+### Bat file code for running 
+## "OrganizeMe server"
 ```batch
 @echo off
 REM Change directory to the parent folder of the script
@@ -43,10 +45,10 @@ pause
    - `OrganizeMeJavaFX.jar` for the application
 3. Run the appropriate batch file to start the server or application
    - create new `Run.txt` file
-   - copy-paste code: [OrganizeMe app](#bat-file-code-for-running-organizeme-app)
+   - copy-paste code: [OrganizeMe app](#organizeme-app)
    - save as `Run.bat` file
    - create new `Server.txt` file
-   - copy-paste code: [OrganizeMe Server](#bat-file-code-for-running-organizeme-server)
+   - copy-paste code: [OrganizeMe Server](#organizeme-server)
    - save as `Server.bat` file
 
 ## Requirements
