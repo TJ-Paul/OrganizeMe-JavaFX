@@ -1,0 +1,16 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\javafx.base.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\javafx.controls.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\javafx.fxml.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\javafx.graphics.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\javafx.media.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\javafx.swing.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\javafx.web.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\javafx-swt.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\jdk.jsobject.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\jfx.incubator.input.jar",
+        "e:\\delete - Copy\\OrganizeMeJavaFX\\lib\\javafx-sdk-25\\lib\\jfx.incubator.richtext.jar"
+    ]
+}
