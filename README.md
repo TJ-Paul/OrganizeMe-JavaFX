@@ -25,8 +25,8 @@ OrganizeMe isn't just another task manager—it's a complete productivity ecosys
 ## 📸 Application Preview
 
 <p align="center">
-  <img src="src/resources/viewpts/img1.png" alt="Login Page" width="400" style="margin-right: 20px;"/>
-  <img src="src/resources/viewpts/img2.png" alt="Menu" width="400"/>
+  <img src="login_page.png" alt="Login Page" width="400" style="margin-right: 20px;"/>
+  <img src="menu_page.png" alt="Menu" width="400"/>
 </p>
 <p align="center">
   <em>Login Page</em>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>Menu</em>
