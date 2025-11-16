@@ -149,17 +149,6 @@ OrganizeMe showcases advanced software engineering concepts:
 
 This project is currently **under active development** while maintaining full functionality of all its top-notch features.
 
----
-
-## 🤝 Contributing
-
-We welcome contributions! Whether it's bug fixes, new features, or documentation improvements, feel free to:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
