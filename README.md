@@ -177,13 +177,13 @@ Got questions? Run into issues? We're here to help!
 ## 👨‍💻 Developer
 
 **Turjjo Paul**  
-*Bangladesh University of Engineering and Technology (CSE)*
+*Bangladesh University of Engineering and Technology (CSE)* <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/TJ-Paul)
 
 **Safwan Mahdi**  
-*Bangladesh University of Engineering and Technology (CSE)*
+*Bangladesh University of Engineering and Technology (CSE)* <br>
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Safwan00143)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/turjjo-paul/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/TJ-Paul)
 
 ---
 
