@@ -44,6 +44,51 @@ pause
 
 ---
 
+## VSCode Configuration
+
+To run the OrganizeMe application directly from Visual Studio Code, you need to configure the `launch.json` file with the appropriate VM arguments.
+
+### Setup Instructions
+
+1. Create a `.vscode` folder in your project root (if it doesn't exist)
+2. Inside the `.vscode` folder, create a file named `launch.json`
+3. Copy and paste the following configuration:
+
+```json
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "OrganizeMe App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "OrganizeMeJavaFX_5ff4a90a",
+            "vmArgs": "--module-path lib/javafx-sdk-25/lib --add-modules javafx.controls,javafx.fxml --enable-native-access=javafx.graphics"
+        }
+    ]
+}
+```
+
+4. Save the file
+
+### Running from VSCode
+
+1. Open your project in Visual Studio Code
+2. Press `F5` or click **Run > Start Debugging**
+3. Alternatively, use the **Run and Debug** panel (Ctrl+Shift+D)
+4. Select "OrganizeMe App" from the dropdown
+5. Click the green play button
+
+### Important Notes
+
+- Ensure the `mainClass` matches your application's main class name
+- Update `projectName` if your project has a different identifier
+- The `vmArgs` parameter must point to the correct JavaFX SDK path
+
+---
+
+
 ## Setup Instructions
 
 1. Ensure JavaFX SDK 25 is located in `lib/javafx-sdk-25/lib`
